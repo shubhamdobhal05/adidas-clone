@@ -602,6 +602,270 @@
                 "isFreeShipping": true
             }
         
+        ],
+        "sneakers" : [
+            {
+                "id": 1,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a44a97614e6c48eca087ae1d00e01cc5_9366/Street_Stunner_W_White_EY3193_01_standard.jpg",
+                "title": "STREET STUNNER W",
+                "availableSizes": [
+                   4,
+                   5,
+                   6,
+                   7
+                ],
+                "price": 3299.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 2,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/387952ea50a8427dae45ad41002648a9_9366/Donovan_Mitchell_D.O.N._Issue_3_x_Bel-Air_Athletics_Shoes_Blue_H68047_01_standard.jpg",
+                "title": "DONOVAN MITCHELL ",
+                "availableSizes": [
+                    
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                ],
+                "price": 9999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 3,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/569e895a89d44ddc868dadcd008446ca_9366/Adi_Chic_W_Blue_EY2927_01_standard.jpg",
+                "title": "ADICHIC W",
+                "availableSizes": [
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                    
+                ],
+                "price": 2699.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 4,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/010e36ea1e75401a8524ad3900c47233_9366/Terrex_Trailmaker_Primegreen_Hiking_Shoes_Pink_G58397_01_standard.jpg",
+                "title": "TERREX TRAILMAKER HIKING SHOES",
+                "availableSizes": [
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                    
+                ],
+                "price": 9999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 5,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0c2d2dbca9b34400905ead1f0116d37c_9366/X9000L1_Shoes_Black_H00577_01_standard.jpg",
+                "title": "X9000L1 SHOES",
+                "availableSizes": [
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "price": 7999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 6,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d03338c046f44128b949ae1d00e01fc2_9366/CONTEMX_W_Purple_EY3194_01_standard.jpg",
+                "title": "CONTEMX W",
+                "availableSizes": [
+                    4,
+                    8
+                ],
+                "price": 3599.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 7,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/54cab0d130ef41558e48ae20009071ec_9366/Adi_Zoom_W_Blue_EY2936_01_standard.jpg",
+                "title": "ADI ZOOM W",
+                "availableSizes": [
+                   4,
+                   5,
+                   6,
+                   7,
+                   8
+                ],
+                "price": 3299.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 8,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/74cc429215b147eaaf05ad0c00e370a7_9366/GameCourt_Tennis_Shoes_Grey_FZ4287_01_standard.jpg",
+                "title": "GAME COURT TENNIS SHOES",
+                "availableSizes": [
+                    4,
+                    5,
+                    6,
+                    7
+                    
+                ],
+                "price": 5999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 9,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d6e2f318030b4a4e9cf2ab560187f89c_9366/Edge_Lux_4_Shoes_Black_FV6354_01_standard.jpg",
+                "title": "EDGE LUX 4 SHOES",
+                "availableSizes": [
+                    4, 5
+                ],
+                "price": 7999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 10,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/72a4755b1a6244cab94eae1f008ad9be_9366/SweepIt_W_Black_EY2999_01_standard.jpg",
+                "title": "SWEEPIT W",
+                "availableSizes": [
+                    6,
+                    7,
+                    8
+                    
+                ],
+                "price": 2999.00,
+                "isFreeShipping": true
+            }
+        ],
+        "originals": [
+            {
+                "id": 1,
+                "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/64e294abecca4b1da62cadf60038a44b_9366/Pouchylette_Slides_Orange_GY1009_01_standard.jpg",
+                "title": "POUCHYLETTE SLIDES",
+                "availabelSizes": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "price": 5999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 2,
+                "img": "",
+                "title": "ULTRABOOST 22 SHOES",
+                "availabelSizes": [
+                    6,
+                    7,
+                    8
+                ],
+                "price": 17999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 3,
+                "img": "",
+                "title": "ULTRABOOST 22 SHOES",
+                "availabelSizes": [
+                    6,
+                    7,
+                    8
+                ],
+                "price": 17999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 4,
+                "img": "",
+                "title": "ULTRABOOST 22 SHOES",
+                "availabelSizes": [
+                    6,
+                    7,
+                    8
+                ],
+                "price": 17999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 5,
+                "img": "",
+                "title": "ULTRABOOST 22 SHOES",
+                "availabelSizes": [
+                    6,
+                    7,
+                    8
+                ],
+                "price": 17999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 6,
+                "img": "",
+                "title": "ULTRABOOST 22 SHOES",
+                "availabelSizes": [
+                    6,
+                    7,
+                    8
+                ],
+                "price": 17999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 7,
+                "img": "",
+                "title": "ULTRABOOST 22 SHOES",
+                "availabelSizes": [
+                    6,
+                    7,
+                    8
+                ],
+                "price": 17999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 8,
+                "img": "",
+                "title": "ULTRABOOST 22 SHOES",
+                "availabelSizes": [
+                    6,
+                    7,
+                    8
+                ],
+                "price": 17999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 9,
+                "img": "",
+                "title": "ULTRABOOST 22 SHOES",
+                "availabelSizes": [
+                    6,
+                    7,
+                    8
+                ],
+                "price": 17999.00,
+                "isFreeShipping": true
+            },
+            {
+                "id": 10,
+                "img": "",
+                "title": "ULTRABOOST 22 SHOES",
+                "availabelSizes": [
+                    6,
+                    7,
+                    8
+                ],
+                "price": 17999.00,
+                "isFreeShipping": true
+            }
+
         ]
     }
 }
